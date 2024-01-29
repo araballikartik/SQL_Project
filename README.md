@@ -8,16 +8,16 @@ customer and desinging targeted markings effort. This intiative focuses on inven
 camping all contributing to sustained success and expansion
 
 TABLE USED
-album
-artist
-customers
-genre
-employee
-invoice
-invoice_line
-media_type
-playlist
-playlist_track
+album,
+artist,
+customers,
+genre,
+employee,
+invoice,
+invoice_line,
+media_type,
+playlist,
+playlist_track,
 tracks
 
 RDBMS Used: POSTGRESQL
